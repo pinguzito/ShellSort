@@ -1,6 +1,7 @@
 # ShellSort
 Shell sort built for college
 
+Hey!
 I ran a few tests with it so i could see how much time (in miliseconds) it would take to order some arrays
 
 Random entrances
